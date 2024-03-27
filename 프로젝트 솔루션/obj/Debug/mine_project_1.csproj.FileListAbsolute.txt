@@ -1,0 +1,13 @@
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\bin\Debug\mine_project_1.exe.config
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\bin\Debug\mine_project_1.exe
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\bin\Debug\mine_project_1.pdb
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.csproj.AssemblyReference.cache
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.Properties.Resources.resources
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.csproj.GenerateResource.cache
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.csproj.CoreCompileInputs.cache
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.exe
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.pdb
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.login.resources
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.game.resources
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.regit.resources
+K:\Data\[INTEL]AI SW Academy\project\mine_project_1\obj\Debug\mine_project_1.rank.resources
